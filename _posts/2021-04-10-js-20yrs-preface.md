@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "《JavaScript 二十年》推荐语"
-author:       "Hux"
+title:        "《重生之 我的第二个网站》"
+author:       "Dog"
 header-style: text
 catalog:      true
 tags:
@@ -9,8 +9,13 @@ tags:
     - JavaScript
 ---
 
-> 雪碧（doodlewind）邀请我给[《JavaScript 二十年》](https://zhuanlan.zhihu.com/p/373065151) 写的推荐序。
+###> 今天是公元2025/3/20 日后长期更新此网站，分享更多好玩的内容。更名为 Dog
 
-JavaScript 常常被戏称为一门偶然成功的玩具语言。而实际上，它出身名门，更是成长在聚光灯之下。纵观历史，有资格被标准化的编程语言甚少，它因此成为多方角力的战场，却也有幸同时得到业界与学界先驱的亲传。时至今日，我们甚至难言是它背负了太多妥协，还是这些妥协才成就了它呢。以史为鉴，或许你会有自己的答案。
+###今天我分享第一个内容，剪映Pro 会员版，已经破解了
+已打包号{点我下载}（https://pan.baidu.com/s/1CkyIwF4XvmKTF54L7FkSMA?pwd=8888）
 
-— 黄玄，Facebook 软件工程师（编程语言、JS 引擎、前端基础设施）、中文前端社区活跃成员。
+里面已经有教程了，小白也不用担心。
+
+仅兄弟内部通道使用，不得向外流通！！后果自负
+
+—by Dog
