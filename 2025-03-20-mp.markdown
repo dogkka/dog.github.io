@@ -1,21 +1,51 @@
 ---
-layout:       post
-title:        "《重生之 我的第二个网站》"
-author:       "Dog"
-header-style: text
-catalog:      true
-tags:
-    - Web
-    - JavaScript
----
+# DAZZ会员版 下载
 
-###> 今天是公元2025/3/20 日后长期更新此网站，分享更多好玩的内容。更名为 Dog
+前言！！！必须是苹果手机才能下载，安卓的不行，安卓的都是盗版的
 
-###今天我分享第一个内容，剪映Pro 会员版，已经破解了
-已打包号{点我下载}（https://pan.baidu.com/s/1CkyIwF4XvmKTF54L7FkSMA?pwd=8888）
+1. 把手机的dazz先卸载掉。再打APP Store！[]（data：image/png;base64...）
+2. 点击头像，往下划到最底部，点击退出登录![]（data：image/png;base64...）
+3. 然后这里登录我提供的账号和密码
 
-里面已经有教程了，小白也不用担心。
+涉及到隐私和安全问题，点击下方链接或扫码即可查看
 
-仅兄弟内部通道使用，不得向外流通！！后果自负
+密码：8888
 
+<https://maipdf.cn/file/at67d64699e4dad/pdf>
+
+或者扫码阅读![]（data：image/png;base64...）
+
+密码：8888
+
+**如果出现其它情况，例如：**![]（data：image/png;base64...）
+
+直接点击否
+
+![]（data：image/png;base64...）
+
+然后继续：
+
+![]（data：image/png;base64...）
+
+![]（data：image/png;base64...）
+
+这时候你们直接点击下载就行了
+
+1. 进入软件
+2. 情况1（跟着照片操作就行了）
+
+**![]（data：image/png;base64...）**
+
+**情况2：就是什么都没有提示，说明已经成功了**
+
+* 最后一步：退出appleID和关闭连网
+ 1. 打开手机设置，点击蜂窝网络。找到dazz，关闭掉（因为联网后需要验证）
+ 2. 打开app tore，退出账户，登你自己的账号就可以了
+ 3. 打开设置，点击应用商店，跟我的一样就行！[]（data：image/png;base64...）
+
+**还有不明白的我出一期视频教学**
+
+**bilibili【Dazz】：https://www.bilibili.com/video/BV1WLQcYVEuG/?share\_source=copy\_web&vd\_source=a0892bbfc87838e9462c7c35df435930**
+
+**Xyx出品**
 —by Dog
